@@ -1,0 +1,2 @@
+ALTER TABLE project ADD `from` INTEGER;
+ALTER TABLE project ADD `to` INTEGER;

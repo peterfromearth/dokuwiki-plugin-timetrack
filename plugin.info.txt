@@ -1,0 +1,7 @@
+base   timetrack
+author peterfromearth
+email  coder@peterfromearth.de
+date   2018-10-28
+name   Timetrack
+desc   Track hours for projects
+url    https://www.dokuwiki.org/plugin:timetrack
